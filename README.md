@@ -9,4 +9,7 @@ Components
 1. Neopixel Shield - https://www.adafruit.com/product/1430
 
 References
-1. Neopixel Shield - https://learn.adafruit.com/adafruit-neopixel-uberguide
+1. Neopixel Shield How-To - https://learn.adafruit.com/adafruit-neopixel-uberguide
+    - GitHub Examples - https://github.com/adafruit/Adafruit_NeoPixel
+    - Arduino Library - https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
+    - Arduino Library use - https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
