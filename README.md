@@ -7,3 +7,6 @@ Sensing the World Design Challenge - Element14 Project
 
 Components
 1. Neopixel Shield - https://www.adafruit.com/product/1430
+
+References
+1. Neopixel Shield - https://learn.adafruit.com/adafruit-neopixel-uberguide
